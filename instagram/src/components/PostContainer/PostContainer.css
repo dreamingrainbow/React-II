@@ -1,0 +1,17 @@
+.PostContainer{    
+    display:flex;
+    box-sizing: border-box;
+    margin:1em;
+    padding: 0.25em;
+    box-shadow: 3px 3px 5px darkblue;
+    flex-direction: column;
+}
+
+.PostContainer__Header{
+    display:flex;
+    box-sizing: border-box;
+}
+.PostContainer__Header div{
+    box-sizing: border-box;
+    padding: 0.15em;
+}
